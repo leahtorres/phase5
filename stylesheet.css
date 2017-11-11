@@ -15,6 +15,7 @@ width: 100vw;
 .yellow {
 	display: flex;
 	height: calc(20vh - 6px);
+	width: 100vw;
 }
 .purple {
 background-image: url(superman.jpg);
@@ -35,7 +36,7 @@ background-size: 100% 100%;
 .button {
 	background-color: #FF33E3;
 	height: 20vh;
-	width: 10vw;
+	width: 5vw;
 	margin: auto;
   border: 3px solid green;
 	text-align: center;
