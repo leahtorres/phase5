@@ -1,0 +1,93 @@
+body{
+	margin:0;
+	border:0;
+	padding:0;
+}
+.container {
+display: block;
+height: 100vh;
+width: 100vw;
+}
+.green {
+  display: flex;
+ 
+}
+.yellow {
+	display: flex;
+	height: calc(20vh - 6px);
+}
+.purple {
+background-color: #7D33FF;
+display: flex;
+  height: 80vh;
+  width: 50vw;
+}
+.blue {
+  background-color: #3633FF;
+  display: flex;
+  height: 80vh;
+  width: 50vw;
+}
+.button {
+	background-color: #FF33E3;
+	height: 20vh;
+	width: 10vw;
+	margin: auto;
+    border: 10px solid green;
+}
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+  height: 100vh;
+  width: 100vw;
+}
+.comic1 {
+	background-color: #B3DACF;
+	width: 25vw;
+  height: 50vh;
+  display: flex;
+	
+}
+.comic2 {
+background-color: #758B9C;
+	width: 25vw;
+    height: 50vh;
+  display: flex;
+}
+.comic3 {
+	background-color: #0E216F;
+	width: 25vw;
+    height: 50vh;
+  display: flex;
+}
+.comic4 {
+	background-color: #CA70AB;
+	width: 25vw;
+    height: 50vh;
+  display: flex;
+}
+.comic5 {
+	background-color: #CA7074;
+	width: 25vw;
+    height: 50vh;
+  display: flex;
+}
+.comic6 {
+	background-color: #7D282C;
+	width: 25vw;
+    height: 50vh;
+  display: flex;
+}
+.comic7 {
+	background-color: #3ACD62;
+	width: 25vw;
+    height: 50vh;
+  display: flex;
+}
+.comic8 {
+	background-color: #218E85;
+	width: 25vw;
+    height: 50vh;
+  display: flex;
+	
+}
