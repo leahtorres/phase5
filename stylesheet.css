@@ -14,9 +14,10 @@ width: 100vw;
 }
 .yellow {
 	display: flex;
-	height: calc(20vh - 6px);
+	height: calc(20.2vh - 4px);
 	width: 100vw;
 }
+
 .purple {
 background-image: url(superman.jpg);
 background-repeat: no-repeat;
@@ -35,11 +36,10 @@ background-size: 100% 100%;
 }
 .button {
 	background-color: #FF33E3;
-	height: 20vh;
-	width: 15vw;
+	height: 19vh;
+	width: 10vw;
 	margin: auto;
   border: 3px solid green;
-	text-align: center;
 }
 .flex-container {
 	display: flex;
