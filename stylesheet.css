@@ -17,13 +17,15 @@ width: 100vw;
 	height: calc(20vh - 6px);
 }
 .purple {
+background-image: url(superman.jpg);
 background-color: #7D33FF;
 display: flex;
   height: 80vh;
   width: 50vw;
 }
 .blue {
-  background-color: #3633FF;
+background-image: url(clarkent.jpg);
+ background-color: #3633FF;
   display: flex;
   height: 80vh;
   width: 50vw;
@@ -34,6 +36,7 @@ display: flex;
 	width: 10vw;
 	margin: auto;
     border: 10px solid green;
+	text-align: center;
 }
 .flex-container {
 	display: flex;
