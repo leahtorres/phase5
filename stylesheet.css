@@ -96,3 +96,29 @@ background-color: #758B9C;
   display: flex;
 	
 }
+@media screen and (max-width: 700px) {
+  .comic1 {
+    width: 50vw;
+  }
+  .comic2 {
+    width: 50vw;
+  }
+  .comic3 {
+    width: 50vw;
+  }
+  .comic4 {
+    width: 50vw;
+  }
+  .comic5 {
+    width: 50vw;
+  }
+  .comic6 {
+    width: 50vw;
+  }
+  .comic7 {
+    width: 50vw;
+  }
+  .comic8 {
+    width: 50vw;
+  }
+}
