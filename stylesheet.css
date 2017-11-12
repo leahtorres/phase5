@@ -14,7 +14,7 @@ width: 100vw;
 }
 .yellow {
 	display: flex;
-	height: calc(20.2vh - 4px);
+	height: calc(22vh - 4px);
 	width: 100vw;
 }
 
