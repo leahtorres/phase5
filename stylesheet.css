@@ -97,6 +97,46 @@ background-color: #758B9C;
   display: flex;
 	
 }
+.img1 {
+ display: block;
+    margin: auto;
+background-image: url(comic1.png);
+}
+.img2 {
+ display: block;
+    margin: auto;
+background-image: url(comic2.jpg);
+}
+.img3 {
+ display: block;
+    margin: auto;
+background-image: url(comic3.jpg);
+}
+.img4 {
+ display: block;
+    margin: auto;
+background-image: url(comic4.JPG);
+}
+.img5 {
+ display: block;
+    margin: auto;
+background-image: url(comic5.jpg);
+}
+.img6 {
+ display: block;
+    margin: auto;
+background-image: url(comic6.jpg);
+}
+.img7 {
+ display: block;
+    margin: auto;
+background-image: url(comic7.jpg);
+}
+.img8 {
+ display: block;
+    margin: auto;
+background-image: url(comic8.jpg);
+}
 @media screen and (max-width: 700px) {
   .comic1 {
     width: 50vw;
