@@ -101,41 +101,57 @@ background-color: #758B9C;
  display: block;
     margin: auto;
 background-image: url(comic1.png);
+	height: 25vh;
+	width: 18vw;
 }
 .img2 {
  display: block;
     margin: auto;
 background-image: url(comic2.jpg);
+	height: 25vh;
+	width: 18vw;
 }
 .img3 {
  display: block;
     margin: auto;
 background-image: url(comic3.jpg);
+	height: 25vh;
+	width: 18vw;
 }
 .img4 {
  display: block;
     margin: auto;
 background-image: url(comic4.JPG);
+	height: 25vh;
+	width: 18vw;
 }
 .img5 {
  display: block;
     margin: auto;
 background-image: url(comic5.jpg);
+	height: 25vh;
+	width: 18vw;
 }
 .img6 {
  display: block;
     margin: auto;
 background-image: url(comic6.jpg);
+	height: 25vh;
+	width: 18vw;
 }
 .img7 {
  display: block;
     margin: auto;
 background-image: url(comic7.jpg);
+	height: 25vh;
+	width: 18vw;
 }
 .img8 {
  display: block;
     margin: auto;
 background-image: url(comic8.jpg);
+	height: 25vh;
+	width: 18vw;
 }
 @media screen and (max-width: 700px) {
   .comic1 {
