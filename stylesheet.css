@@ -57,6 +57,8 @@ background-size: 100% 100%;
 .comic2 {
 background-color: #758B9C;
 	background-image: url(img11.jpg);
+	background-repeat: no-repeat;
+background-size: 100% 100%;
 	width: 25vw;
     height: 50vh;
   display: flex;
